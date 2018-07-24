@@ -1,0 +1,171 @@
+﻿sentence	label
+atom maddenin en küçük parçasıdır ama molekül iki elementin birleşimi gibi olmali yani kimyasal bileşiklerin en küçük parcasıdır	3
+atom maddenin en küçük yapıtaşıdır ancak parçalanabilir molekül ise atomların bir araya gelmesi ile oluşur	3
+atomlar moleküllerden oluşur	0
+protein ve yağ sindirimi midede başlayacağı için çoğu şeyi sindiremeyecektir	0
+molekül atomlardan oluşur	1
+atom proton elektron ve nötronlardan oluşur molekül birden çok atomdan oluşur	1
+hiç sindirememek olabilir mi	0
+potansiyel enerjinin kullanılmasıyla ortaya çıkan enerji çeşididir	0
+vücudumuz için en temel organik besin olan proteinin kimyasal sindirimi midede baslar ince bağırsakta biter eğer mide olmasa proteinin kimyasal sindirimini ince bağırsak tek başına yapmakta zorlanacagi için ince bağırsak sorunları oluşur	0
+atom tek cins elementtir molekül ise farklı atom içerir	2
+molekül de birden fazla atom var	1
+bazı yiyecekleri tüketemez rahat sindiremez doygunluk hissi duyar	0
+moleküller atomlardan oluşur	1
+atom en küçük yapı molekül ise birleşimi	2
+moleküller birden fazla atomdan oluşabilir	1
+molekül atomlardan oluşur atom maddenin bölünemeyen en küçük parçasıdır	3
+atom maddenin en küçük yapıtaşıdır atomlar birleşerek molekülleri oluşturur	3
+herhangi bir bilgim yok	0
+atomların birleşmesiyle molekül oluşur	1
+molekül en az iki atom birleşmesi ile oluşur	1
+atom tek parçacıktır her bir element buna örnektir molekül içinde en az iki atom barındırır bu aynı elementin doğadaki halide olabilir iki ya da daha fazla elementin bir araya gelip bileşik oluşturmasıyla da	3
+gazlı ve asitli besinler tüketmekte zorluk yaşar	0
+moleküller birden fazla elementten oluşur	1
+molekul birden fazla atomun bir araya gelmesi	1
+atom en küçük yapı taşı molekül bir veya daha fazla atomun bir araya gelmesi	3
+atomlar bir araya gelerek molekülleri oluşturur yani atomlar moleküllerden daha küçüktür	2
+atom bir yapının en küçük birimidir fakat molekül o yapının oluşmuş haline denir	3
+atomlar bir araya gelip molekülleri oluşturur benzer atomlar çeşitli sayılarda bir araya gelerek farklı özellikte moleküller oluşturabilir	1
+atom bir tanedir molekül ise birden fazla atomdan oluşmuştur	2
+atom tek parcacıkken molekül çok sayıda atomdan oluşur	2
+atom maddenin en küçük yapısı molekül ise atomların oluşturduğu elementlerin birbiriyle bağlanmasıdır	3
+molekül atomların bir araya gelmesiyle oluşur	1
+atom tek tipden oluşan molekül atomlardan oluşan en küçük madde yapı birimleri	3
+hareket edilince var olan enerji	0
+molekül farklı atomlardan oluşur	1
+molekül atomdan daha küçüktür	0
+atom madenin yapıtasıdır molekül ise birden çok atomun birleşmesiyle oluşur	0
+molekül iki veya daha fazla atomun birleşmesindn oluşur	1
+bilmiyorum	0
+fazla yemek yiyemez çünkü depolayamaz ve bağırsaklarında sorun yaşar çünkü yiyecekler çok işlem görmemiştir	0
+biri digerinin parcasi	0
+molekül atomları icerir	1
+elementin özelliğini taşıyan en küçük yapı birimine atom bir veya birden fazla atomun birleşmesinden meydana gelen yapıya ise molekül denir	3
+molekül doğa içerisinde tek başına bulunmayan atom veya ikiden fazla grup atom şeklinde bulunan yapıdır örneğin su molekülü doğada hep molekülü şeklinde bulunur yani suyu meydana getiren atom kümesi içerisinde hep hidrojen ve oksijen bulunmak zorundadır atom ise bir karmaşık yapının malzemenin en basit birim hücresidir bir malzemenin en küçük yapı taşıdır	0
+atom maddenin en küçük yapı taşıdır molekül ise atomlardan oluşan bir yapıdır	3
+atom maddenin temel yapı taşıdır molekül ise atomlar veya moleküllerden meydana gelir	3
+biri bir maddenin biri bileşiğin yapıtaşı	1
+ağızdan sindirim sistemi yoluyla gıda alamaz direkt olarak ince bağırsaktan besleme ya da kana sindirilmiş yani midenin işlevine gerek kalmadan kana karışabilen gıdalar ile yaşamına devam edebilir yeme alışkanlıkları yok olacak	0
+hareket halinde olan bir cismin harcadığı enerjidir	0
+atom tek bir elementtir molekül ise iki veya daha fazla atomun birleşmesi sonu ortaya çıkandır	2
+molekül bir veya birden fazla çeşit atomdan oluşabilen kompleks yapıdır	1
+atom tek molekül çoklu yapıdan oluşur	2
+molekül atomun bir parçasıdır	0
+atom tek bir parçayken mokekül birden çok atomdan oluşan yapıdır	2
+atom tek parçadır molekül atomların birleşimidir	3
+molekülleri oluşturan atomlardır	1
+molekül bağ yapmış atoma denir	1
+hazımsızlık	0
+atomlar molekulleri olusturur	1
+midesinin bir kısmı alınacağı için daha az yemek yemek zorunda kalır midenin esnek bir yapısı olduğu için yıllar için de tekrar eski halini alma riski taşır	0
+yağların sindirimi gerçekleşmez	0
+yediklerini öğütme konusunda sıkıntı yaşar katı ağırlıklı beslenme konusunda sıkıntı çeker	0
+molekül bir çok farklı maddenin birleşiminden oluşur atom ise homojendir	1
+atom moleküllerin yapı taşıdır	1
+atom en küçük madde birimidir molekül ise atomların birleşmesidir	3
+molekül birden fazla atomdan oluşur formülle gösterilir moleküller atomlardan oluşur atom ise sembolle gösterilir	2
+atom en küçük birimdir moleküller ise atomların bağlar ile bağlanıp grup olduğu halidir	3
+atomlar içerisinde proton nötron ve elektron bulunduran tekil taneciklerdir moleküller bunun aksine birden fazla tanecikten oluşur ve moleküller aynı ya da farklı atomların belirli oranlarda birleşmesinden oluşmaktadır	2
+molekül atomların birleşmesiyle oluşur	1
+kabızlık	0
+atom özellikleri aynı olan maddeyi oluşturan en küçük yapı birimidir molekül ise atomlardan ve atomlar arası bağlardan oluşan atoma göre daha büyük bir yapıdır	3
+molekküller birden fazla ve çeşitli atomlardan oluşabilirler atom ise tek başına bi elementin en küçük yapı taşıdır	3
+benzer atomların çeşitli sayılarda bir araya geldiği zaman farklı özelliklere sahip moleküller oluşturulabileceğidir	2
+atom tek bir ve maddenin yapı taşını oluşturan parçacıktır moleküller ise birden fazla atomun bir araya gelip kimyasal olarak kaynaşması kendi özelliklerini kaybedip o moleküle özel özellikler kazanmasıyla oluşan yapılardır	3
+molekül en az iki atomdan oluşan bileşiktir	1
+atom maddenin yapıtaşı molekül ise atomlardan oluşur	2
+atom maddenin en küçük yapı taşıdır molekül birden fazla atomdan bir araya gelerek oluşmuş bir yapıdır	3
+atomlar bağlar kurarak molekülleri oluştururlar	1
+devinmeyi sağlayan enerji	0
+midede proteinlerin sindirimi olduğundan protein yapılı molekülleri sindirirken kimyasal sindiriminde aksaklık olur aynı zamanda mekanik sindirim yapıldığı için yağların ve karbonhidratların da küçük parçalara ayrılıp yüzey alanını büyütmesinde aksamalar görülür	0
+atom maddenin yapi tasi molekul ise atomlardan olusur	3
+atom tek element molekül ise aynı ve ya farklı elementlerin birlikte oluşturduğu bir yapı	2
+atom	0
+atom maddenin en küçük yapı taşıdır molekül ise en az iki atomdan oluşur	3
+bazı maddelerin emilimi sekteye uğrar protein doğru sindirilemez ince bağırsağın işi zorlanır çünkü fiziksel sindirime ihtiyacı vardır	0
+midede mekanik ve kimyasal sindirim olur mide kasları mekanik sindirim ile kimyasal sindirimi kolaylaştırır midesi alınan bir insan yaşar fakat sıvı beslenmek zorundadır çünkü besinlerin geçici olarak depo edileceği mide yoktur ayrıca mide özsuyu da işlevlerini yapamaz olur	0
+atomun en ufak parçaçıklarıdır	0
+atom maddenin yapıtaşıdır en küçük parçacıktır molekül ise birden fazla atomun bir araya gelmesi ile olusur	3
+atom en küçük molekül bir kaç atomdan meydana gelir	1
+atom tektir molekül ise farklı atomların bir araya gelmesiyle oluşur	1
+maddenin temel yapıtaşı atom molekül atomların kendi aralarında kurdukları bağlarla oluşan yapıdır	3
+atom tek bir yapı molekül atomların birleşmesi ile oluşan yapıdır	2
+atom çok güçlü bir şeydir hatta atom karınca diye bir çizgi film vardı karınca çok güçlüydü atom pompası da çok güçlü bir silah burdan bi atom bombası atarsak amerikayı yok ederiz mokelüller ise atomları bir arada mutlu mesut yaşamaya zorlayan yapılardır atomlar tek başlarına kaldıklarında yukarıda bahsedildiği gibi çok tehlikeli olabiliyorlar moleküller de bu tehlikeleri önlemek için atomları bir arada tutar onları ehlileştirir mesela molekülünü düşünün su molekülü hidrojen okşijenden oluşmuş hidrojen yakıcı oksijen yanıcı bir atomdur anlatabiliyor	0
+makromoleküllerin sindirimiyle alakalı sorunlar yaşar ve bu bütün sindirim sistemini ve aldığı besinlerin ince bağırsaktaki emilimine kadar olan bütün süreci etkiler	0
+bir hareketlinin hareketinden dolayı ortaya çıkan enerji	0
+bilmiyorum fakat güzel bir şey bence herkese selamlar	0
+atom en küçük yapı birimidir moleküller atomlardan oluşur	3
+moleküller birden fazla atomlardan oluşurlar	1
+atom maddenin en küçük yapı parçasıdır moleküller atomların birleşmesinden oluşurlar	3
+kütlesi ve hızı olan cisimlerin sahip oldukları enerjidir birimi jouledur yani kilogram çarpı hızın karesidir	0
+atom elementin en küçük yapı taşıdır molekül ise iki ya da daha fazla atomun bir araya gelmesiyle oluşur	3
+molekül çok sayıda atomun birleşmesiyle oluşur	1
+atom elementlerin yapıtaşı molekül ise bileşiklerin yapı taşı olarak düşünülebilir	3
+atom en küçük yapı taşı elementlerin molekül atomların belli bağlar ile bir araya gelmesiyle olusur	3
+bir atom bir element içindeki element özelliklerine sahip en küçük parçacıktır proton nötron ve elektronik taneciklerini bulundurur molekül ise iki veya daha fazla atom takımının birbirine arasında oluşturduğu kimyasal bağlar sonucunda ortaya çıkan yapıya denir	3
+atom tektir molekül ise birden fazla atomun birbirleriyle olan tepkime sonucu oluşur	3
+atom periyodik tabloda bulunan her bir elemandır kütle numarası hacmi vs vardır hidrojen ve oksijen birer ise bir moleküldür	1
+atom maddeyi oluşturan en küçük yapı birimidir molekül ise farklı ya da aynı çeşit atomlardan oluşur	3
+sindirimi bağırsaklar tamamlamaya çalışır besinler tam sindirilmez	0
+molekül atomların bağ kurmasıyla oluşur atom bağ içermez	1
+atom ve molekül arasındaki fark	0
+atom molekülün daha küçüğüdür	0
+molekül bir çok atomun meydana getirdiği yapı	1
+bir maddenin hareketinden ötürü sahip olduğu enerji	0
+kısaca hareket enerjisi	0
+mide asidinin salgılanamamasından dolayı sindirim yapılamaz ya da çok uzun sürer	0
+atom tektir molekül birden fazla atomun birlikte olmasıdır	2
+atom maddenin en küçük yapı taşıdır molekül ise birden fazla atomun birleşmesiyle oluşur	3
+atom tek molekül değil	1
+atom tekildir molekül çoğul yani birden fazla elementin birleşmesiyle oluşur	2
+molekül bir veya birden fazla atomdan oluşur	1
+midede besinler cesitli kimyasallarla yapi taslarina ayrilir mide alinirsa artik besinler parcalanamaz	0
+tekli ve coklu parcaciklar	0
+atomlar maddeyi oluşturan tek taneciktir elementler aynı tür atomlardan oluşan maddelerdir ve elementler birleşerek molekülleri oluşturur	3
+mide olmazsa yaşanmaz	0
+çok farklı	0
+atom en küçük yapı taşı molekül ise aynı ya da farklı türde atomların birleşmesi ile olur	3
+atom tek molekül atomlardan oluşan yapı	2
+atom bir maddenin en küçük yapıtaşı moleküller ise bir veya bir kaç değisik atomdan oluşabilir	3
+atomlar molekülü oluşturur	1
+besinlerin mekanik sindirimi gerçekleşmez proteinlerin kimyasal sindirimi yapılamaz besinler ince bağırsağa daha az sindirilimiş gelir mide öz suyu üretilemez	0
+atom maddenin en küçük yapı birimiyken molekül birden fazla atomun bir araya gelmesiyle oluşur	3
+atom belli sayıda protonu ve çoğunlukla eşit sayıda nötronu olan orbitallerinde elektronları bulunan kararlı olmak isteyen bir yapıdır molekül ise birden fazla atomun kararlı olmak amacı ile elektron ile bir araya gelerek oluşturduğu atom grubudur	2
+atom tektir maddeye özgüdür molekül atomların belirli oran ve düzenle bir araya gelmiş halidir	2
+atom tek elementten oluşurken molekül birden fazla element ten oluşmaktadır	3
+atom atom altı parçacıklardan oluşan en küçük anlamlı yapı taşıdır atomlar farklı elektron proton sayilarina sahiptir bu farklı atomlar farklı isimlendirilmiş bunlar elementlerdir elementler ise belirli nedenlerle ve belirli koşullarda bağlar kurarak molekülleri olustururlar molekülün illa farklı elementlerden oluşmasına gerek yoktur o bir elementtir bir moleküldür	3
+atomlar hep homojendir ama molekül bileşik halinde görülebilir moleküller aynı veya farklı en az iki atomun birleşmesiyle oluşur	2
+molekül atomların bir araya gelmesisir	1
+atom en küçük yapı birimidir moleküller atomların birleşmesiyle oluşur	3
+atom maddenin parçalanamayan en küçük yapı taşıdır moleküllerin birleşmesi atomu oluşturur	0
+proteinin kimyasal sindirimi başlayamaz mekanik sindirim gerçekleşmeyeceğinden kimysal sindirim uzar	0
+atom yalnız bir parça molekül aynı atomlardan meydana gelen parça	1
+birden farklı atomun bir araya gelmesiyle molekül oluşur	1
+atom tek bir elementtir molekül birden fazla atomun bir araya gelerek oluşturduğu bileşendir	2
+bir ya da daha çok atom molekül içinde olabilir atom en küçük şey ve ondan daha küçük bir şey yok	3
+biri büyük biri daha büyük	0
+molekül	0
+molekül atomlardan oluşur atom molekülden daha küçüktür	2
+atomun icinde moleküller vardir	0
+atomun bombası vardır molekülün yoktur	0
+atom tek tanecikdir molekül birden fazla atomun bir araya gelmesiyle oluşur	2
+atom elementin en küçük özelliğini gösteren yapıtaşı iken molekül bileşiginen en küçük özelliğini gösterir	3
+metaller atomdur ametal ve soygazlar molekül ayrıca atomlar saf ve tek cinsten oluşurlar molekül saf da olabilir olmayadabilir tek cinsten oluşmak zorunda değil	0
+değinmekte olan bir cismin enerjisi	0
+atom maddenin en küçük yapı taşıdır molekül atomlardan meydana gelir	3
+kütle ve hıza bağlı bir enerji türüdür	0
+atom en küçük yapı taşıdır molekül atomlardan oluşur	3
+mide genişler onun için kısa bir süre sonra eski halini alır	0
+molekül bir çok atomdan meydana gelmiştir	1
+sindirim sistemi düzgün çalışmaz daha geç sindirim olur	0
+molekül elementleri oluşturan en küçük birimdir	0
+atomlar daha küçüktür ve moleküllerin yapıtaşıdır moleküller daha büyüktür çünkü çok sayıda atomdan oluşurlar az sayıda atom çeşidi vardır ama sonsuz çeşitte molekül oluşturabilirler	2
+atom en küçük yapı taşı molekül atomlardan olusur	3
+atom tektir molekül en az adetten oluşur	0
+molekül birkaç atomun birleşmesiyle oluşur	1
+proteini sindiremez zayıflar	0
+atomlar molekülü oluşturur su iki hidrojen ve bir oksijen atomundan	2
+atomlar tek başına bulunurken moleküller birden fazla atom içerir	2
+proteinlerin eksik sindirimini yaptığı için protein sindirimi daha geç ve uzun zamanda olur kimus adı verilen madde oluşturulup incebağırsağa aktarılamaz besinler depo edilemez	0
+atom maddenin en küçük birimidir diğer atomlarla bağ oluşturur molekül tek çeşit veya birden fazla çeşitte atomdan oluşabilir	3
